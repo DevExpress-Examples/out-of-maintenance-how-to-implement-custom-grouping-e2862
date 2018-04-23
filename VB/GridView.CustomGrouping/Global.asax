@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.vb" Inherits="GridView.CustomGrouping.MvcApplication" Language="vb" %>
