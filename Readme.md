@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to implement custom grouping
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2862)**
+**[[Run Online]](https://codecentral.devexpress.com/e2862/)**
 <!-- run online end -->
 
 
