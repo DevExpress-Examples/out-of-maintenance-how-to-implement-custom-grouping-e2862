@@ -4,7 +4,7 @@ Imports System.Collections.Generic
 Imports System.Linq
 Imports System.Web
 Imports System.Collections
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 
 Namespace GridView.CustomGrouping.Models
 	Public NotInheritable Class NorthwindDataProvider
